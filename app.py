@@ -16,9 +16,7 @@ name = input("Enter Name to Register")
 pin = input("Enter PIN: ")
 
 balance = 0
-# print (name, balance)
 print (f"{name} has been registered with a starting balance of ${balance}.")
-
 
 "          === Automated Teller Machine ===          "
 print("Log In")
